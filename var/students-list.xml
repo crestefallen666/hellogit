@@ -2,6 +2,20 @@
 
 <students>
     <student>
+        <firstname>Suad</firstname>
+        <lastname>Miqdadi</lastname>
+        <email>souadmokdadi@yahoo.com</email>
+        <github>suadmiqdadi</github>
+        <group>KrDZIa3012</group>
+</student>
+ <student>
+	<firstname>Agnieszka</firstname>
+	<lastname>Pilch</lastname>
+	<email>e.amaire@gmail.com</email>
+	<github>Amaire</github>
+	<group>KrZZIs3012Io</group>
+ </student>   
+ <student>
         <firstname>Student1</firstname>
         <lastname>Student1</lastname>
         <email>student@uek.krakow.pl</email>
@@ -186,10 +200,66 @@
      <student>
         <firstname>Grzegorz</firstname>
         <lastname>Orzycki</lastname>
+<<<<<<< HEAD
         <email>grzegorz_kaddoura@hotmail.com</email>
         <github>crestefallen666</github>
         <group>KrZZIs3012Io</group>
     </student>
+=======
+        <email>grzegorz_.........@hotmail.com</email>
+        <github>crestefallen666</github>
+        <group>KrZZIs3012Io</group>
+    </student>
+    <student>
+        <firstname>Tomasz</firstname>
+        <lastname>Nazarenko</lastname>
+        <email>email@poczta.pl</email>
+        <github>iblazei</github>
+        <group>KrDzIs3012IO</group>
+    </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Kański</lastname>
+        <email>xmazu@yahoo.com</email>
+        <github>xmazu</github>
+        <group>KrzzIS3012io</group>
+    </student>
+    <student>
+	<firstname>Agnieszka</firstname>
+        <lastname>Grzadziel</lastname>
+        <email>grzadziel.a@poczta.fm</email>
+        <github>AgGrz</github>
+        <group>KrZZIs3012io</group>
+    </student>
+    <student>
+        <firstname>Grzegorz</firstname>
+        <lastname>Kandefer</lastname>
+        <email>biofizyk@gmail.com</email>
+        <github>KrolSalomon</github>
+        <group>KrZZIs3012Io</group>
+    </student>
+    <student>
+        <firstname>Gabriel</firstname>
+        <lastname>Gabzdyl</lastname>
+        <email>gabrielgvip@interia.pl</email>
+        <github>pingwingg</github>
+        <group>Krzzis3012Io</group>
+    </student>
+    <student>
+        <firstname>Grzegorz</firstname>
+        <lastname>Kozak</lastname>
+        <email>......</email>
+        <github>......</github>
+        <group>z3012io</group>
+     </student>
+     <student>
+        <firstname>Dawid</firstname>
+        <lastname>Pawlik</lastname>
+        <email>test@test.test</email>
+        <github>cary2000</github>
+        <group>KrZZis3012io</group>
+    </student>
+>>>>>>> 91c73fd43c3091dcc2a866d628fc8570d3133020
 </students>
 
 
